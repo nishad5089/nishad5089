@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nishad5089](https://github.com/nishad5089)
 
-- 📄 Leetcode: https://leetcode.com/mashXleetcode/ 
+- 📄 Leetcode: https://leetcode.com/ 
 
 - 💬 Ask me about **MERN, Software Design Idea, Problem Solving, SQA And Java, Springboot, System Design.**
 
